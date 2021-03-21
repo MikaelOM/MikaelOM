@@ -7,10 +7,10 @@
 </p>
 
 ### Contact with me
-<p align="center>
+<div align="center>
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" link=https://https://www.linkedin.com/in/mikael-magalhães-207842173 />][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
-</p>                                                                                                                                                
+</div>                                                                                                                                                
 </br>
 ---
 
