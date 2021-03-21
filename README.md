@@ -5,6 +5,7 @@
 ### Tecnologies🚀🚀
 
 #### Languages and tools:
+</br>
 
 <div align="center">
  
@@ -21,6 +22,7 @@
 </div>
 
 #### GitHub stats:
+</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelOM&hide=stars&show_icons=true&theme=algolia&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelOM&count_private=true&theme=algolia">
