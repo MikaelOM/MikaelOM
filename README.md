@@ -5,7 +5,7 @@
 ### Tecnologies🚀🚀
 </br>
 
-- #### Languages and tools:
+- #### Languages and tools I currently study:
 
 <div align="center">
  
