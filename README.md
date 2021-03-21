@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&link=https://https://www.linkedin.com/in/mikael-magalhães-207842173)](https://www.linkedin.com/in/mikael-magalhães-207842173)
-<p align="center">
+
   ![MikaelOM GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelOM&show_icons=true&theme=radical)
-</p>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikaelOM&repo=github-readme-stats)](https://github.com/MikaelOM/github-readme-stats)
 <!--
 **MikaelOM/MikaelOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
