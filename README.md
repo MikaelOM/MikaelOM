@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelOM&count_private=true&theme=algolia">
 </p>
 
+[linkedin]:https://www.linkedin.com/in/mikael-magalhães-207842173
+
 
 <!--
 **MikaelOM/MikaelOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
