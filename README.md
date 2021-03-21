@@ -13,10 +13,10 @@
 
 ---
 
-### Contact with me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikael.omagalhaes@gmail.com)](mailto:mikael.omagalhaes@gmail.com)
-[<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" link=https://https://www.linkedin.com/in/mikael-magalhães-207842173 />][linkedin]
+### Contact with me📌
 
+[<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" link=https://https://www.linkedin.com/in/mikael-magalhães-207842173 />][linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikael.omagalhaes@gmail.com)](mailto:mikael.omagalhaes@gmail.com)
               
 
 [linkedin]:https://www.linkedin.com/in/mikael-magalhães-207842173
