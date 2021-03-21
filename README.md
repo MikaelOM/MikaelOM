@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&link=https://https://www.linkedin.com/in/mikael-magalhães-207842173)](https://www.linkedin.com/in/mikael-magalhães-207842173)
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://www.linkedin.com/in/mikael-magalhães-207842173" />][linkedin]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelOM&hide=stars&show_icons=true&theme=algolia&line_height=32">
