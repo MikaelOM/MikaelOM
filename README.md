@@ -5,9 +5,11 @@
 ### Tecnologies🚀🚀
 
 <div align="center">
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+
 </div>
 
 <p align="center">
