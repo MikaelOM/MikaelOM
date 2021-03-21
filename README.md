@@ -1,7 +1,7 @@
 ### Hi there Welcome in my GitHub profile👋
   </br>
   
-  Eu sou o Mikael, tenho 22 anos e moro em Bragança Pta/Sp.
+  - Eu sou o Mikael, tenho 22 anos e moro em Bragança Pta/Sp.</br>
   Atualmente busco a minha primeira oportunidade em minha carreira de desenvolvedor.
 
 ---
