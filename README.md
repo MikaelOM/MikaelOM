@@ -5,6 +5,7 @@
 ### Tecnologies🚀🚀
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelOM&hide=stars&show_icons=true&theme=algolia&line_height=32">
