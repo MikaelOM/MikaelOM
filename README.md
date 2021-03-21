@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&link=https://https://www.linkedin.com/in/mikael-magalhães-207842173)](https://www.linkedin.com/in/mikael-magalhães-207842173)
-<img align="end" width= 100%>
+<img align="center" width= 100%>
   ![MikaelOM GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelOM&show_icons=true&theme=prussian)
 </img>
   </br>
