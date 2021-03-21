@@ -4,8 +4,9 @@
 
 ### Tecnologies🚀🚀
 
-
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelOM&hide=stars&show_icons=true&theme=algolia&line_height=32">
