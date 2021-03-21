@@ -5,7 +5,7 @@
 
  ``` sh
   - Eu sou o Mikael, tenho 22 anos e moro em Bragança Pta/Sp.
-  Estou no ultimo semestre da Faculdade de Análise e desenvolvimento de Sistemas e
+  Estou no ultimo semestre da Graduação em Análise e desenvolvimento de Sistemas e
   atualmente busco a minha primeira oportunidade em minha carreira de desenvolvedor.
   ```
 
