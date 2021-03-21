@@ -4,6 +4,8 @@
 
 ### Tecnologies🚀🚀
 
+#### Languages and tools:
+
 <div align="center">
  
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
