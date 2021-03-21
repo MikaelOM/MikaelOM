@@ -11,6 +11,7 @@
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong>
+</br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
