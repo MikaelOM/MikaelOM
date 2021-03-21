@@ -1,4 +1,6 @@
 ### Hi there 👋
+  
+  Eu sou o Mikael e tenho 22 anos. Atualmente busco a minha primeira oportunidade na minha carreira de desenvolvedor.
 
 ---
 
