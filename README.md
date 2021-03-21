@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/MikaelOM/)](https://www.linkedin.com/MikaelOM)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/mikael-magalh%C3%A3es-207842173/)](https:/https://www.linkedin.com/in/mikael-magalh%C3%A3es-207842173/)
 
 <!--
 **MikaelOM/MikaelOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
