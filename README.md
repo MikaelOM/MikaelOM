@@ -1,5 +1,4 @@
 ### Hi there, Welcome in my GitHub profile👋
- <img align="center" alt="Gif" width="34px" src="https://pin.it/yXfsbBK" />
   </br>
 
 #### About me😎
