@@ -50,7 +50,7 @@
           
 </div>
  
-[linkedin]:https://www.linkedin.com/in/mikael-magalhães-207842173
+[linkedin]:https://www.linkedin.com/in/mikael-magalhães
 [instagram]:https://www.instagram.com/mikael_henrique__/
 
 
