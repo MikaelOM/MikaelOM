@@ -14,15 +14,13 @@
 ### Tecnologies🚀🚀
 </br>
 
-- #### <i>Languages and tools I currently study:</i>
 
 <div align="center">
  
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
-![React](https://img.shields.io/badge/-React-9cf?style=flat-square&logo=react&logoColor=%23ffffff)
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong>
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=%23ffffff)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-React-inactive?style=flat-square&logo=react&logoColor=blue)
 </br></br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -30,7 +28,12 @@
 
 </div>
 
-- #### <i>GitHub Stats:</i>
+---
+</br>
+
+ #### __GitHub Stats__:
+ 
+ </br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelOM&hide=stars&show_icons=true&theme=algolia&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelOM&count_private=true&theme=algolia">
