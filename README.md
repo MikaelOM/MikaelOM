@@ -41,20 +41,6 @@
 
 ---
 
-### Contact with me📌
- 
-<div align="center">
-
-[<img align="center" alt="bilgehangecici  | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" link=https://https://www.linkedin.com/in/mikael-magalhães-207842173 target="_blank"/>][linkedin]
-<a href="mailto:mikael.omagalhaes@gmail.com">
-  <img align="center" alt="Jugal Bhatt | Gmail" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-[<img align="center" alt="bilgehangecici | Instagram" width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" target="_blank" />][instagram]
-          
-</div>
- 
-[linkedin]:https://www.linkedin.com/in/mikael-magalhães
-[instagram]:https://www.instagram.com/mikael_henrique__/
 
 
 
