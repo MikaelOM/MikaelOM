@@ -4,9 +4,9 @@
 #### About me😎
 
  ``` sh
-  Eu sou o Mikael, tenho 22 anos e moro em Bragança Pta/Sp.
-  Estou no ultimo semestre da Graduação em Análise e desenvolvimento de Sistemas e
-  atualmente busco a minha primeira oportunidade em minha carreira de desenvolvedor.
+  I'm a FRONT-END developer for around 2 years, but I have a little experience in BACKEND with NodeJs. 
+  I currently work with an e-commerce platform with vtex io, react, typescript, css and more technologies.
+  I really like web and mobile development, and in the future I'm thinking of studying and starting some IOT projects.
   ```
 
 ---
