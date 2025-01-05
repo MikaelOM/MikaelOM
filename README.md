@@ -5,7 +5,6 @@
 
 I'm a FRONT-END developer for around 2 years, but I have a little experience in BACKEND with NodeJs. 
 I currently work with an e-commerce platform with vtex io, react, typescript, css and more technologies.
-I really like web and mobile development, and in the future I'm thinking of studying and starting some IOT projects.
  
 
   
